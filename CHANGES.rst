@@ -3,6 +3,11 @@
 CHANGES
 =======
 
+0.2
+---
+
+- Bump version
+
 0.1
 ---
 
