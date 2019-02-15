@@ -1,0 +1,12 @@
+*.pyc
+*.swp
+*.swo
+dist/*
+src/sphinx_invoke.egg-info/*
+.idea/
+.cache/
+.coverage
+.tox/
+.pytest_cache/*
+build_dir/
+build/
