@@ -3,6 +3,13 @@
 .. image:: https://travis-ci.org/nokia/sphinx-invoke.svg?branch=master
     :target: https://travis-ci.org/nokia/sphinx-invoke
 
+Documentation
+-------------
+
+Documentation for sphinx-invoke can be found from `Read The Docs`_.
+
+.. _Read The Docs: http://sphinx-invoke.readthedocs.io/
+
 Sphinx directive for invoke tasks
 ---------------------------------
 
@@ -34,4 +41,6 @@ Development practices
 ---------------------
 
 The development and the testing follows the Common Robot Libraries development
-practices defined in https://github.com/nokia/crl-devutils.
+practices defined in crl-devutils_.
+
+.. _crl-devutils: http://crl-devutils.readthedocs.io/.

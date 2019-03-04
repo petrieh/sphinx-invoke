@@ -3,6 +3,12 @@
 CHANGES
 =======
 
+
+0.2.1
+-----
+
+- Integrate with Read The Docs
+
 0.2
 ---
 
